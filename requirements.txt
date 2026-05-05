@@ -1,6 +1,8 @@
 pyTelegramBotAPI==4.22.0
 numpy>=1.24
-faiss-cpu>=1.9
+faiss-cpu>=1.7
 sentence-transformers>=2.6
 Flask==3.0.0
-gunicorn==21.2.0
+waitress==3.0.0
+google-genai
+torch>=2.0
